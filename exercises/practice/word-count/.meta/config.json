@@ -1,10 +1,29 @@
 {
   "blurb": "Given a phrase, count the occurrences of each word in that phrase.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "andrej-makarov-skrt"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmcaine"
+    },
+    {
+      "github_username": "SaschaMann"
+    },
+    {
+      "github_username": "Teo-ShaoWei"
+    }
+  ],
   "files": {
     "solution": [],
-    "test": ["runtests.jl"],
-    "example": [".meta/example.jl"]
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ]
   },
   "source": "This is a classic toy problem, but we were reminded of it by seeing it in the Go Tour."
 }

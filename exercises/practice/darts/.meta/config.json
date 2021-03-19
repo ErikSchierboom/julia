@@ -1,10 +1,23 @@
 {
   "blurb": "Write a function that returns the earned points in a single toss of a Darts game",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "vyu"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "SaschaMann"
+    }
+  ],
   "files": {
     "solution": [],
-    "test": ["runtests.jl"],
-    "example": [".meta/example.jl"]
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ]
   },
   "source": "Inspired by an exercise created by a professor Della Paolera in Argentina"
 }

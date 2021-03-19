@@ -1,10 +1,23 @@
 {
   "blurb": "A data structure that uses a single, fixed-size buffer as if it were connected end-to-end.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "vyu"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "SaschaMann"
+    }
+  ],
   "files": {
     "solution": [],
-    "test": ["runtests.jl"],
-    "example": [".meta/example.jl"]
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ]
   },
   "source": "Wikipedia",
   "source_url": "http://en.wikipedia.org/wiki/Circular_buffer"

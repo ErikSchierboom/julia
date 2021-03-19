@@ -1,10 +1,35 @@
 {
   "blurb": "Given a DNA string, compute how many times each nucleotide occurs in the string.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "SaschaMann"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmcaine"
+    },
+    {
+      "github_username": "CNOT"
+    },
+    {
+      "github_username": "daveyarwood"
+    },
+    {
+      "github_username": "Teo-ShaoWei"
+    },
+    {
+      "github_username": "tripitakit"
+    }
+  ],
   "files": {
     "solution": [],
-    "test": ["runtests.jl"],
-    "example": [".meta/example.jl"]
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ]
   },
   "source": "The Calculating DNA Nucleotides_problem at Rosalind",
   "source_url": "http://rosalind.info/problems/dna/"

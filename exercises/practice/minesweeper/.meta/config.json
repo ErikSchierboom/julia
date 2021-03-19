@@ -1,9 +1,25 @@
 {
   "blurb": "Add the numbers to a minesweeper board",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "abhishalya"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmcaine"
+    },
+    {
+      "github_username": "SaschaMann"
+    }
+  ],
   "files": {
     "solution": [],
-    "test": ["runtests.jl"],
-    "example": [".meta/example.jl"]
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ]
   }
 }

@@ -1,10 +1,23 @@
 {
   "blurb": "Make sure the brackets and braces all match.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "chinglamchoi"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "SaschaMann"
+    }
+  ],
   "files": {
     "solution": [],
-    "test": ["runtests.jl"],
-    "example": [".meta/example.jl"]
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ]
   },
   "source": "Ginna Baker"
 }

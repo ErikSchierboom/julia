@@ -1,9 +1,25 @@
 {
   "blurb": "Create a custom set type.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "SaschaMann"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "CNOT"
+    },
+    {
+      "github_username": "Teo-ShaoWei"
+    }
+  ],
   "files": {
     "solution": [],
-    "test": ["runtests.jl"],
-    "example": [".meta/example.jl"]
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ]
   }
 }

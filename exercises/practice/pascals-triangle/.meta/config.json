@@ -1,10 +1,29 @@
 {
   "blurb": "Compute Pascal's triangle up to a given number of rows.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "SaschaMann"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andrej-makarov-skrt"
+    },
+    {
+      "github_username": "cmcaine"
+    },
+    {
+      "github_username": "Teo-ShaoWei"
+    }
+  ],
   "files": {
     "solution": [],
-    "test": ["runtests.jl"],
-    "example": [".meta/example.jl"]
+    "test": [
+      "runtests.jl"
+    ],
+    "example": [
+      ".meta/example.jl"
+    ]
   },
   "source": "Pascal's Triangle at Wolfram Math World",
   "source_url": "http://mathworld.wolfram.com/PascalsTriangle.html"
